@@ -1,6 +1,6 @@
 {
     "name": "@agileforge/ngx-wlog",
-    "version": "18.0.0",
+    "version": "18.0.6",
     "description": "Angular web application logger without injection",
     "repository": {
         "type": "git",

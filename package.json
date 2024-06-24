@@ -31,7 +31,7 @@
         "build": "ng build",
         "test": "ng test",
         "lint": "ng lint",
-        "publish": "cd projects/ngx-wlog/ && npm version patch && cd ../..  && ng build ngx-wlog --prod && cp .npmrc dist/ngx-wlog/ && cd dist/ngx-wlog/ && npm publish && cd ../.."
+        "publish": "cd projects/ngx-wlog/ && npm version patch && cd ../..  && ng build ngx-wlog -c production && cp .npmrc dist/ngx-wlog/ && cd dist/ngx-wlog/ && npm publish && cd ../.."
     },
     "private": true,
     "dependencies": {
