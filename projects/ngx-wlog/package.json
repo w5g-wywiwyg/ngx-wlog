@@ -1,6 +1,6 @@
 {
     "name": "@agileforge/ngx-wlog",
-    "version": "1.0.1",
+    "version": "18.0.6",
     "description": "Angular web application logger without injection",
     "repository": {
         "type": "git",
@@ -26,13 +26,13 @@
     },
     "homepage": "https://github.com/agileforge/ngx-wlog#readme",
     "peerDependencies": {
-        "@angular/common": ">=12.0.0",
-        "@angular/core": ">=12.0.0"
+        "@angular/common": ">=18.0.0",
+        "@angular/core": ">=18.0.0"
     },
     "dependencies": {
-        "tslib": "^2.0.0"
+        "tslib": "^2.6.3"
     },
     "devDependencies": {
-        "@types/stack-trace": "^0.0.29"
+        "@types/stack-trace": "^0.0.33"
     }
 }

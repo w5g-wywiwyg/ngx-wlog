@@ -48,3 +48,6 @@ Thumbs.db
 projects/ngx-wlog/node_modules/
 
 .npmrc
+
+# Angular
+.angular/
